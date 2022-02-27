@@ -12,10 +12,10 @@ library(EuropeanOptionPrice)
 
 ## Once you build the finary folder of the package, run the lines below
 
-install.packages("./EuropeanOptionPrice_1.0.zip",
-                 type = "binaries",
-                 repos = NULL,
-                 dependenciew=TRUE)
+install.packages("./EuropeanOptionPrice_1.0.zip",<br>
+                 type = "binaries",<br>
+                 repos = NULL,<br>
+                 dependenciew=TRUE)<br>
 library(EuropeanOptionPricer)
 
 
