@@ -3,7 +3,9 @@
 ## In order to import the package please follow the lines below in R
 
 library(devtools)
+<br>
 install_github("orkhan-amrullayev/EuropeanOptionPrice")
+<br>
 library(EuropeanOptionPrice)
 
 
