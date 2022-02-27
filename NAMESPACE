@@ -1,0 +1,3 @@
+useDynLib(EuropeanOptionPrice, .registration=TRUE)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")
